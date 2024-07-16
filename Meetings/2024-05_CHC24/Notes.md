@@ -104,7 +104,7 @@ A brief update on use of [OSS Fuzz](https://github.com/google/oss-fuzz) for the 
 - Anthony Klemm [NOAA/HSTB]
 - Geoff Lawes [Revelare]
 - Larry Mayer [CCOM/JHC]
-- Giuseppe Masetti [Danish Hydro]
+- Giuseppe Masetti [DGA, CCOM/JHC]
 - Brian Miles [CCOM/JHC]
 - James Muggah [QPS]
 - Danny Neville [Spatialnetics]
