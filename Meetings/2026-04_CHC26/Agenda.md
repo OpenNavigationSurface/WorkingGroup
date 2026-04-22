@@ -1,8 +1,9 @@
 # Open Navigation Surface Working Group
 
-**Time:** TBD
-
-**Location:** TBD
+Venue: Canadian Hydrographic Conference 2026, L'Hôtel Bonaventure, Montréal, QC
+Room: Montréal 3 
+Date: 2026-04-29 09:00-10:00
+Teleconference: To be confirmed (this may depend on available bandwidth at the venue)
 
 ## Introduction
 
@@ -23,6 +24,9 @@ The Open Navigation Surface Working Group meeting will be held in conjunction wi
 
 - Releases:
   - 2.0.5: Bugfix release to properly handle dimensions of optional BAG layers (for example, variable resolution layers) as described [here](https://github.com/OpenNavigationSurface/BAG/issues/109)
+- Usage (last 6 mo.):
+  - bagPy: 13k downloads
+  - libbaglib: 2.7k downloads
 
 ## Discussions
 
