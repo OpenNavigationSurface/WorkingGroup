@@ -3,7 +3,7 @@
 Venue: Canadian Hydrographic Conference 2026, L'Hôtel Bonaventure, Montréal, QC
 Room: Montréal 3 
 Date: 2026-04-29 09:00-10:00
-Teleconference: To be confirmed (this may depend on available bandwidth at the venue)
+Teleconference: https://teams.microsoft.com/meet/252518906565114?p=dI460kKe7iSvntz2tp
 
 ## Introduction
 
